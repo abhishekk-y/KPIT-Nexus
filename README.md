@@ -29,7 +29,7 @@ Dynamically blends PID and MPC controllers based on real-time error analysis for
 ### ⚡ **High Performance**
 Runs at 20Hz with optimized NumPy vectorization and efficient algorithms
 
-### 🤖 **AI-Powered**
+### 🤖 **AI-Powered **
 Integrated DDPG (Deep Deterministic Policy Gradient) agent for continuous learning
 
 </td>
