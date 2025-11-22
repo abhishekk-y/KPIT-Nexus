@@ -258,7 +258,7 @@ Where:
 
 <div align="center">
 
-| [Anurag Singh](https://github.com/anurag) | [Abhisek Yadav](https://github.com/abhisek) | [Ishan Munday](https://github.com/ishan) | [Shubhanshu Yadav](https://github.com/shubhanshu) |
+| [Anurag Singh](https://github.com/anurag9140chauhan) | [Abhisek Yadav](https://github.com/abhisek) | [Ishan Munday](https://github.com/ishan) | [Shubhanshu Yadav](https://github.com/shubhanshu) |
 |:---:|:---:|:---:|:---:|
 | 🎓 Team Leader | 🔧 Core Dev | 🎨 UI/UX | 🧪 Testing |
 | Control Systems | Algorithms | Interface Design | Quality Assurance |
