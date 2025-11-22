@@ -51,33 +51,44 @@ Cyberpunk-themed interface with neon accents and smooth animations
 ---
 
 ## 🎬 Demo
-
 <div align="center">
 
-### Main Dashboard
-![Dashboard](assets/screenshots/MainDashboard.png)
+### Main Dashboard  
+![Dashboard](assets/screenshots/MainDashboard.png)  
 *Real-time system response tracking with MPC prediction visualization*
 
-````carousel
-![Dashboard View](assets/screenshots/MainDashboard.png)
-**Main Dashboard** - System output tracking target setpoint with control effort visualization
-<!-- slide -->
-![Analysis View](assets/screenshots/Analysis%20.png)
-**Advanced Analysis** - Phase plane, error history, system health radar, and frequency spectrum
-<!-- slide -->
-![PID Components](assets/screenshots/PID%20Details%20.png)
-**PID Breakdown** - Individual P, I, and D terms visualization
-<!-- slide -->
-![AI Training](assets/screenshots/AI%20Training%20(Upcomming).png)
-**AI Training** - Loss curves and 3D cost landscape visualization
-<!-- slide -->
-![System Logs](assets/screenshots/SystemLog.png)
-**System Console** - Real-time telemetry and diagnostic output
-````
+---
+
+### 🖥️ Main Dashboard
+![Dashboard View](assets/screenshots/MainDashboard.png)  
+**System output tracking target setpoint with control effort visualization**
+
+---
+
+### 📊 Advanced Analysis
+![Analysis View](assets/screenshots/Analysis%20.png)  
+**Phase plane, error history, system health radar, and frequency spectrum**
+
+---
+
+### 🔎 PID Breakdown
+![PID Components](assets/screenshots/PID%20Details%20.png)  
+**Individual P, I, and D terms visualization**
+
+---
+
+### 🤖 AI Training *(Upcoming)*
+![AI Training](assets/screenshots/AI%20Training%20(Upcomming).png)  
+**Loss curves and 3D cost landscape visualization**
+
+---
+
+### 📡 System Console
+![System Logs](assets/screenshots/SystemLog.png)  
+**Real-time telemetry and diagnostic output**
 
 </div>
 
----
 
 ## 🏗️ Architecture
 
